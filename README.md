@@ -1,3 +1,5 @@
+This project showcases a modern and stylish introduction section for websites, featuring a dropdown navigation menu. The introduction section is designed to grab attention with its sleek layout and smooth animations, while the dropdown navigation enhances user experience by providing easy access to different sections of the website. The code, written in HTML, CSS, and JavaScript, is well-organized and commented, making it easy to understand and customize for your own projects
+
 # Frontend Mentor - Intro section with dropdown navigation
 
 ![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
